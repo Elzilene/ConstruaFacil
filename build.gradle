@@ -8,7 +8,7 @@ version '1.0-SNAPSHOT'
 repositories {
     mavenCentral()
 }
-
+//oi
 dependencies {
     testImplementation group: 'org.testng', name: 'testng', version: '7.4.0'
 
